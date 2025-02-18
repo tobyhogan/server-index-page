@@ -1,18 +1,22 @@
 // Sample data - replace this with your actual website data
 const websites = [
-    {
-        name: "Blog Site",
-        url: "/blog"
-    },
-    {
-        name: "Portfolio",
-        url: "/portfolio"
-    },
-    {
-        name: "Photo Gallery",
-        url: "/gallery"
-    }
-    // Add more websites as needed
+  {
+    name: "Tab Title Picker",
+    url: "/tab-title-picker"
+  },
+  {
+    name: "Completed Task Tracker",
+    url: "/completed-task-tracker"
+  },
+  {
+    name: "Custom/Variable Site",
+    url: "/custom-variable-site"
+  },
+  {
+      name: "Test Site - Counter",
+      url: "/basic-html-test-1"
+  }
+  // Add more websites as needed
 ];
 
 // Function to create website cards
