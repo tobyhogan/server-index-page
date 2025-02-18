@@ -28,9 +28,9 @@ h1 {
     color: #2c3e50;
 }
 
-.websites-grid {
+.container .websites-grid {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
     gap: 0.5rem;
     max-width: 800px;
     margin: 0 auto;
