@@ -2,19 +2,19 @@
 const websites = [
   {
     name: "Tab Title Picker",
-    url: "/tab-title-picker"
+    url: "/tab-title-picker/"
   },
   {
     name: "Completed Task Tracker",
-    url: "/completed-task-tracker"
+    url: "/completed-task-tracker/"
   },
   {
     name: "Custom/Variable Site",
-    url: "/custom-variable-site"
+    url: "/custom-variable-site/"
   },
   {
       name: "Test Site - Counter",
-      url: "/basic-html-test-1"
+      url: "/basic-html-test-1/"
   }
   // Add more websites as needed
 ];
