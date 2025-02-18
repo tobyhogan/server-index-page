@@ -23,7 +23,7 @@ const websites = [
 function createWebsiteCard(website) {
     return `
         <div class="website-card">
-            <a href="${website.url}" target="_blank"></a>
+            <a href="${website.url}"></a>
             <span class="site-name">${website.name}</span>
             <span class="site-url">${website.url}</span>
         </div>
