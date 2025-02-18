@@ -13,6 +13,10 @@ const websites = [
     url: "/custom-variable-site/"
   },
   {
+      name: "React & Vite Test - Counter",
+      url: "/react-server-test/"
+  },
+  {
       name: "Test Site - Counter",
       url: "/basic-html-test-1/"
   }
