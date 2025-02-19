@@ -29,7 +29,7 @@ function createWebsiteCard(website) {
         <div class="website-card">
             <a href="${website.url}"></a>
             <span class="site-name">${website.name}</span>
-            <span class="site-url">${website.url}</span>
+            <span class="site-url">~${website.url}</span>
         </div>
     `;
 }
