@@ -5,7 +5,7 @@ const websites = [
     url: "/tab-title-picker/"
   },
   {
-    name: "Projects Landig Page",
+    name: "Projects Landing Page",
     url: "/projects-org-landing-page/"
 
   },
