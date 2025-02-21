@@ -5,6 +5,11 @@ const websites = [
     url: "/tab-title-picker/"
   },
   {
+    name: "Server Index Page",
+    url: "/server-index-page/"
+
+  },
+  {
     name: "Completed Task Tracker",
     url: "/completed-task-tracker/"
   },
